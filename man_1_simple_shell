@@ -1,4 +1,4 @@
-.TH SIMPLE-SHELL "17 APRIL 2020" "0.6" "Holberton Simple-Shell"
+.TH SIMPLE-SHELL "07 SEPTEMBER 2022" "Simple-Shell"
 
 .SH NAME
 .B Simple Shell - a simple UNIX command interpreter in C
@@ -56,6 +56,6 @@ hsh main.c shell.c test_ls_1
 When you type yes it shows an infinite loop.
 
 .SH AUTHORS
-.B Marisol Ramirez Henao - David Alejandro Hincapie
+.B Peter Keroti - Binyame Gebreegziabher
 .br
- \ @Marisol2201\          \ @dalejohgi
+ \ @keroti\          \ @BINYZMAN
