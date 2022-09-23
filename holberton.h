@@ -25,6 +25,7 @@ int print_not_found(char **arguments, int counter);
 char *_getenv(char *global_var);
 int _printp(const char *prompt, unsigned int size);
 int _putchar(char c);
+void welcom(void);
 int exist(char *pathname);
 void free_grid(char **grid, int heigth);
 void last_free(char *entry);
