@@ -1,14 +1,13 @@
-#include <stdio.h>
+#include "holberton.h"
 
 /**
- * main - print the string in the put function
+ * welcom - print the string in the put function
  *
  * Description: using the main function
  * this program prints "Programming is like building a multilingual puzzle
  * Return: 0
  */
-int main(void)
+void welcom(void)
 {
 	printf("welcome to simple shell\n");
-	return (0);
 }
